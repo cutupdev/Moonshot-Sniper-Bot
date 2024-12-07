@@ -1,22 +1,41 @@
+# compiled output
+**/dist/
+
 node_modules
 
-# Output
-.output
-.vercel
-/.svelte-kit
-/build
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+*.tsbuildinfo
 
 # OS
 .DS_Store
-Thumbs.db
 
-# Env
-.env
-.env.*
-!.env.example
-!.env.test
+# Tests
+coverage
+.nyc_output
 
-# Vite
-vite.config.js.timestamp-*
-vite.config.ts.timestamp-*
-/.vscode
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+*.env
+*.env.*
