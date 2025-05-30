@@ -13,3 +13,8 @@
 - **Enhanced Functionality:** Allows you to see more information about each coin and buy them individually.
 - **Position Persistence:** Automatically saves your positions and reloads them upon restart.
 - **Take Profit and Stop-Loss:** Set take profit and stop-loss percentages for automated selling.
+
+### Contact Information
+- Telegram: https://t.me/DevCutup
+- Whatsapp: https://wa.me/13137423660
+- Twitter: https://x.com/devcutup
